@@ -7,6 +7,7 @@ a store to collect famous code fragment
 
 <!--giab:issue_list_start-->
 
+> * [2016-02-29  [Redux] compose:了解Redux必须要会的函数](https://github.com/simongfxu/giab-code/issues/2)
 > * [2016-02-29  [React] 组件生命周期](https://github.com/simongfxu/giab-code/issues/1)
 
 <!--giab:issue_list_end-->
