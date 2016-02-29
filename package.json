@@ -1,0 +1,27 @@
+{
+  "name": "giab-code",
+  "version": "1.0.0",
+  "description": "a store to collect famous code fragment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node node_modules/giab",
+    "start": "node node_modules/giab && git commit -a -m \"update\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simongfxu/giab-code.git"
+  },
+  "keywords": [
+    "code",
+    "fragment"
+  ],
+  "author": "simonxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simongfxu/giab-code/issues"
+  },
+  "homepage": "https://github.com/simongfxu/giab-code#readme",
+  "dependencies": {
+    "giab": "^1.0.6"
+  }
+}
